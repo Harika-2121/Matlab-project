@@ -1,1 +1,2 @@
-# Matlab-project
+# Matlab-project(Exposure-Based Energy Curve Equalization for Enhancement of Contrast Distorted Images)
+This technique enhances image contrast to improve visual quality, fixing both dark and overly bright images. It's crucial in various fields like photography, surveillance, and medical imaging for clearer interpretation and analysis. By balancing brightness levels, it ensures details are visible without being washed out or shadowed.
